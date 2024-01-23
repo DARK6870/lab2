@@ -23,3 +23,63 @@ D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
 D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
 D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.exe
 D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\Form1.g.cs
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\Form1.baml
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\Form2.g.cs
+C:\Users\Lab106(35)\Desktop\lab2-main\WpfApp\WpfApp\obj\Debug\Form2.baml
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\Form1.g.cs
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\Form2.g.cs
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\Form1.baml
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\Form2.baml
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.pdb

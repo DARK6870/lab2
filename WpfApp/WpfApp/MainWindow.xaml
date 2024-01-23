@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="400" Width="400">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="332,170,0,0" VerticalAlignment="Top"/>
+        <Button Content="Open Km converter" x:Name="form1" Click="form1_Click" HorizontalAlignment="Center" Margin="0,100,0,0" VerticalAlignment="Top"/>
+        <Button Content="Open C converter" x:Name="form2" Click="form2_Click" HorizontalAlignment="Center" Margin="0,150,0,0" VerticalAlignment="Top"/>
+        <Button Content="Open C converter" x:Name="form3" Click="form3_Click" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>

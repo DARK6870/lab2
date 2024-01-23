@@ -24,5 +24,22 @@ namespace WpfApp
         {
             InitializeComponent();
         }
+
+        private void form1_Click(object sender, RoutedEventArgs e)
+        {
+            Form1 f = new Form1();
+            f.Show();
+        }
+
+        private void form2_Click(object sender, RoutedEventArgs e)
+        {
+            Form2 f = new Form2();
+            f.Show();
+        }
+
+        private void form3_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
