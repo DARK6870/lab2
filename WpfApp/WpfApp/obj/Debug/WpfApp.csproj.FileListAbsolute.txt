@@ -83,3 +83,7 @@ C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.cspro
 C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
 C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.exe
 C:\Users\Lab106(35)\Desktop\Folder nou\lab2\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\Form1.g.cs
+D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\Form2.g.cs
+D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\Form1.baml
+D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\Form2.baml

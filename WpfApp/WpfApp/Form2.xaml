@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Form2" Height="450" Width="450">
     <Grid>
-        <TextBox x:Name="textBox_C" HorizontalAlignment="Center" Margin="30,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <TextBox x:Name="textBox_C" HorizontalAlignment="Center" Margin="30,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" PreviewTextInput="validate"/>
         <Label Content="C degrees:" HorizontalAlignment="Left" Margin="40,50,0,0" VerticalAlignment="Top" FontSize="15" FontFamily="Cascadia Code"/>
         <Button Content="Convert" HorizontalAlignment="Center" Margin="0,100,0,0" VerticalAlignment="Top" x:Name="convert_btn" Click="convert_btn_Click"/>
         <Label x:Name="message" Content="" HorizontalContentAlignment="Left" HorizontalAlignment="Center" Margin="20,150,20,0" VerticalAlignment="Top" Height="200" FontSize="16" FontWeight="Bold" />
