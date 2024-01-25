@@ -38,8 +38,8 @@ namespace WpfApp
                     double lie = km / 4.44;
                     double fut = km / 0.3048;
 
-                    string result = $"{km} киллометр равен:\n" +
-                        $"{liga} лиг (лье)\n{mile} миль\n{lie} лье\n{fut} футов";
+                    string result = $"{km} kilometer is equal to:\n" +
+                            $"{liga} leagues\n{mile} miles\n{lie} lie\n{fut} feet";
 
                     message.Content = result;
                 }
