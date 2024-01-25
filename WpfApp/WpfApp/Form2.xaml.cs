@@ -29,16 +29,57 @@ namespace WpfApp
         {
             try
             {
-                double C = Convert.ToDouble(textBox_C);
+                double C = Convert.ToDouble(textBox_degrees.Text);
+                    double Kelvin = C + 273.15;
+                    double Farengeit = (C * 9 / 5) + 32;
+                    double Reomeiru = C * 4 / 5;
+                    double Rankinu = (C + 273.15) * 9 / 5;
+
+                    message.Content = $"Kelvin: {Kelvin}" +
+                        $"\nFahrenheit: {Farengeit}" +
+                        $"\nReomeiru: {Reomeiru}" +
+                        $"\nRankin: {Rankinu}";
             }
             catch
             {
+                message.Content = "Invalid data";
+            }
+        }
+
+        private void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            if (e.LeftButton == MouseButtonState.Pressed)
+            {
+                this.DragMove();
             }
         }
 
         private void validate(object sender, TextCompositionEventArgs e)
         {
-            e.Handled = new Regex("[^0-9]+").IsMatch(e.Text);
+            e.Handled = !Regex.IsMatch(e.Text, @"^-?[0-9]*(\,[0-9]*)?$");
+        }
+
+
+        private void close_btn_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
+
+        private void minus_btn_Click(object sender, RoutedEventArgs e)
+        {
+            WindowState = WindowState.Minimized;
+        }
+
+        private void textBox_degrees_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (textBox_degrees.Text.Length > 0)
+            {
+                convert_btn.IsEnabled = true;
+            }
+            else
+            {
+                convert_btn.IsEnabled = false;
+            }
         }
     }
 }

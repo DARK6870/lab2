@@ -87,3 +87,5 @@ D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\Form1.g.cs
 D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\Form2.g.cs
 D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\Form1.baml
 D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\Form2.baml
+D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\Form3.g.cs
+D:\GIT\lab2\WpfApp\WpfApp\obj\Debug\Form3.baml

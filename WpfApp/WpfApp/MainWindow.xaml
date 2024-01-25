@@ -7,16 +7,17 @@
         mc:Ignorable="d"
         Title="Menu" WindowStyle="None" ResizeMode="CanMinimize" AllowsTransparency="True" Background="Transparent" Height="400" Width="400" Icon="/ghost-solid.png" WindowStartupLocation="CenterScreen">
     <Grid>
-        <Rectangle MouseLeftButtonDown="Window_MouseLeftButtonDown"  HorizontalAlignment="Stretch" Margin="0,0,0,0" Stroke="Transparent" VerticalAlignment="Stretch" Fill="#FF24313E" RadiusX="20" RadiusY="20"/>
+        <Rectangle MouseLeftButtonDown="Window_MouseLeftButtonDown"  HorizontalAlignment="Stretch" Margin="0,0,0,0" Stroke="#FF334252" VerticalAlignment="Stretch" Fill="#FF24313E" RadiusX="20" RadiusY="20"/>
+        <Label Content="Main menu" HorizontalAlignment="Left" Margin="15,10,0,0" VerticalAlignment="Top" FontSize="12" FontFamily="Cascadia Code"/>
         <Button Content="Open Km converter" x:Name="form1" Click="form1_Click" HorizontalAlignment="Center" Margin="0,100,0,0" VerticalAlignment="Top"/>
-        <Button Content="Open C converter" x:Name="form2" Click="form2_Click" HorizontalAlignment="Center" Margin="0,150,0,0" VerticalAlignment="Top"/>
-        <Button Content="Open C converter" x:Name="form3" Click="form3_Click" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top"/>
+        <Button Content="Open degrees converter" x:Name="form2" Click="form2_Click" HorizontalAlignment="Center" Margin="0,150,0,0" VerticalAlignment="Top"/>
+        <Button Content="Open liters converter" x:Name="form3" Click="form3_Click" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top"/>
         <Button BorderBrush="Transparent" x:Name="close_btn" Click="close_btn_Click" Background="Transparent" Padding="0, 0, 0, 0" Width="25" Height="25" Margin="0,10,15,0" VerticalAlignment="Top" HorizontalAlignment="Right">
             <Image Source="/img/close.png" RenderOptions.BitmapScalingMode="HighQuality"/>
         </Button>
         <Button BorderBrush="Transparent" x:Name="minus_btn" Click="minus_btn_Click" Background="Transparent" Padding="0, 0, 0, 0" Width="25" Height="25" Margin="0,10,50,0" VerticalAlignment="Top" HorizontalAlignment="Right">
             <Image Source="/img/minus.png" RenderOptions.BitmapScalingMode="HighQuality"/>
         </Button>
-
+        <Button Content="Close all tabs" x:Name="CloseAll" Click="CloseAll_Click" HorizontalAlignment="Center" Margin="0,320,0,0" VerticalAlignment="Top" Background="#FFDA2222" BorderBrush="#FFA22222"/>
     </Grid>
 </Window>

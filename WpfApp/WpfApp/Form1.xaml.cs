@@ -27,7 +27,12 @@ namespace WpfApp
             try
             {
                 double km = Convert.ToDouble(textBox_km.Text);
-
+                if (km == 0)
+                {
+                    message.Content = "Enter value more than 0";
+                }
+                else
+                {
                     double mile = km / 1.609344;
                     double liga = km / 4.828032;
                     double lie = km / 4.44;
@@ -36,17 +41,19 @@ namespace WpfApp
                     string result = $"{km} киллометр равен:\n" +
                         $"{liga} лиг (лье)\n{mile} миль\n{lie} лье\n{fut} футов";
 
-                    message.Content = result ;
+                    message.Content = result;
+                }
             }
             catch
             {
-                
+
             }
         }
 
         public void validate(object sender, TextCompositionEventArgs e)
         {
-            e.Handled = new Regex("[^0-9]+").IsMatch(e.Text);
+            e.Handled = !Regex.IsMatch(e.Text, @"^[0-9]*(\,[0-9]*)?$");
+
         }
 
         private void close_btn_Click(object sender, RoutedEventArgs e)
@@ -64,6 +71,18 @@ namespace WpfApp
             if (e.LeftButton == MouseButtonState.Pressed)
             {
                 this.DragMove();
+            }
+        }
+
+        private void textBox_km_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (textBox_km.Text.Length > 0)
+            {
+                convert_btn.IsEnabled = true;
+            }
+            else
+            {
+                convert_btn.IsEnabled = false;
             }
         }
     }

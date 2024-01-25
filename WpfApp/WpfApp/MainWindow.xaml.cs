@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -39,7 +40,8 @@ namespace WpfApp
 
         private void form3_Click(object sender, RoutedEventArgs e)
         {
-
+            Form3 f = new Form3();
+            f.Show();
         }
 
         private void close_btn_Click(object sender, RoutedEventArgs e)
@@ -58,6 +60,14 @@ namespace WpfApp
         public void minus_btn_Click(object sender, RoutedEventArgs e)
         {
             WindowState = WindowState.Minimized;
+        }
+
+        private void CloseAll_Click(object sender, RoutedEventArgs e)
+        {
+            for (int intCounter = App.Current.Windows.Count - 1; intCounter >= 0; intCounter--)
+            {
+                App.Current.Windows[intCounter].Close();
+            }
         }
     }
 }
