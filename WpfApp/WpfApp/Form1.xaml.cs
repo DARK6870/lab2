@@ -46,7 +46,7 @@ namespace WpfApp
             }
             catch
             {
-
+                message.Content = "Invalid data";
             }
         }
 

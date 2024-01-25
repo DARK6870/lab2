@@ -62,22 +62,29 @@ namespace WpfApp
 
         private void convert_btn_Click(object sender, RoutedEventArgs e)
         {
-            double liters = Convert.ToDouble(textBox_liters.Text);
-            if (liters == 0)
+            try
             {
-                message.Content = "Enter a value greater than 0";
-            }
-            else
-            {
-                double m = liters / 1000;
-                double barreli = liters / 163.65;
-                double busheli = liters / 36.36872;
-                double galon = liters / 4.55;
+                double liters = Convert.ToDouble(textBox_liters.Text);
+                if (liters == 0)
+                {
+                    message.Content = "Enter a value greater than 0";
+                }
+                else
+                {
+                    double m = liters / 1000;
+                    double barreli = liters / 163.65;
+                    double busheli = liters / 36.36872;
+                    double galon = liters / 4.55;
 
-                message.Content = $"Cubic meters: {m}\n" +
-                    $"Barrel: {barreli}\n" +
-                    $"Bushel: {busheli}\n" +
-                    $"Halon: {galon}";
+                    message.Content = $"Cubic meters: {m}\n" +
+                        $"Barrel: {barreli}\n" +
+                        $"Bushel: {busheli}\n" +
+                        $"Halon: {galon}";
+                }
+            }
+            catch
+            {
+                message.Content = "Invalid data";
             }
         }
     }
