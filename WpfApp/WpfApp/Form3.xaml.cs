@@ -87,5 +87,13 @@ namespace WpfApp
                 message.Content = "Invalid data";
             }
         }
+
+        private void textBox_liters_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Enter && convert_btn.IsEnabled == true)
+            {
+                convert_btn_Click(sender, e);
+            }
+        }
     }
 }
